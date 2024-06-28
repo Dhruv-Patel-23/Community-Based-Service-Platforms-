@@ -1,5 +1,3 @@
-# CS346 - Software Engineering Laboratory
-## Assignment-3 (GROUP 1A)
 ## Title: Community-Based Local Services Platform
 Welcome to our Community-Based Local Services Platform. Our platform, is designed for users to streamline the process of finding, booking, and engaging with Service-Providers(decorators) in your area.
 
